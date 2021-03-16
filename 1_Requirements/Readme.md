@@ -3,7 +3,10 @@
  In this project we extract the data which is present in multiple sheets of excel file and search whole data about he paticular name or unique ID and write inot same file but in different sheet(like in this case it is named as mastersheet)  
 
 ## Defining Our System
-    Python analysis tool is used to take all the sheets present in single excel file and extract the data based on used input and save into mastersheet saved in same excel file
+    Python analysis tool is used:
+    1. Take all the sheets present in single excel file 
+    2. Extract the data based on used input from all the files 
+    3. Save the data into mastersheet, in same excel file
     
 ## SWOT ANALYSIS
 ![swot analyssi](https://user-images.githubusercontent.com/78867415/111285166-dac40e00-8666-11eb-89f4-b277cc2b84d5.PNG)
