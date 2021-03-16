@@ -2,12 +2,6 @@
 ## Introduction
  In this project we extract the data which is present in multiple sheets of excel file and search whole data about he paticular name or unique ID and write inot same file but in different sheet(like in this case it is named as mastersheet)  
 
-## Research
-![Description](Link to Pic)
--- Content 
-## Cost and Features
-![Description](Link to Pic)
--- Content 
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
@@ -33,13 +27,3 @@
 ## How:
 
 **By the help of necessary functions provided by the python so that master sheet is created automatically using python code and required information is printed in the mastersheet**
-
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-
-
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
