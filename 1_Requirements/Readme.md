@@ -24,11 +24,11 @@
 
 ## When:
 
-**It can be used to extract large chunks of data  so that manual data extraction work is reduced **
+**It can be used to extract large chunks of data  so that manual data extraction work is reduced**
 
 ## Where:
 
-**It can be used in Finance Industry, Automobile indutry for deep learning and universities where you need to find out particular student information **
+**It can be used in Finance Industry, Automobile indutry for deep learning and universities where you need to find out particular student information**
 
 ## How:
 
